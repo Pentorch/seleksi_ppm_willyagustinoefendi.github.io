@@ -1,0 +1,53 @@
+.carousel {
+  padding-bottom: 30px;
+  img {
+    height: 550px;
+  }
+}
+
+.card-bootcamp {
+  padding-left: 10px;
+  img {
+    height: 125px;
+    width: 135px;
+  }
+  .card-title {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  .card-text {
+    font-size: 13px;
+  }
+}
+
+.section-footer {
+  background-color: #202528;
+  color: beige;
+}
+.card-footer {
+  background-color: #1a1e1f;
+  font-size: 12px;
+}
+.btn-outline-secondary {
+  font-weight: bold;
+}
+
+.mr-4 {
+  font-weight: bold;
+}
+
+.list-unstyled li a {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+.email {
+  margin-top: 20px;
+  font-size: 15px;
+}
